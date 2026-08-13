@@ -1,0 +1,12 @@
+# Archivos auxiliares de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# main.pdf NO se ignora: el PDF compilado es un entregable exigido por el enunciado.
